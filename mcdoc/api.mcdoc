@@ -1,0 +1,25 @@
+
+dispatch minecraft:storage[varchunk:in] to struct In {
+    [any]: any
+}
+dispatch minecraft:storage[varchunk:out] to struct Out {
+    [any]: any
+}
+
+dispatch minecraft:storage[varchunk:hook] to struct Hook {
+    [any]: any
+}
+
+dispatch minecraft:storage[varchunk:api] to struct Api {
+
+}
+
+
+
+dispatch minecraft:storage[varchunk:abstract/in] to struct AbstractIn {
+
+}
+
+dispatch minecraft:storage[varchunk:abstract/out] to struct AbstractOut {
+
+}

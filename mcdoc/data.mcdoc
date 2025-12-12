@@ -1,0 +1,4 @@
+
+dispatch minecraft:storage[varchunk:data] to struct Data {
+
+}
