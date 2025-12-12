@@ -1,6 +1,7 @@
 #> varchunk:_/sc/uninstall
 # @ UNINSTALL
 
-# TODO
+execute in varchunk:chunk run forceload remove all
 
-tellraw @a [{color:red, text:"[!!!] Uninstallation for 'varchunk' has not yet been implemented!"}]
+# DEBUG:
+tellraw @a {color:gold, text:"(warning about dimensions not being uninstallable I think)"}

@@ -1,6 +1,4 @@
 #> varchunk:_/sc/disable
 # @ DISABLE
 
-# TODO
-
-tellraw @a [{color:red, text:"[!!!] Disable for 'varchunk' has not yet been implemented!"}]
+tellraw @a {color:gold, text:"(warning about dimensions not being disablable I think)"}

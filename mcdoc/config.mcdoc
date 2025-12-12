@@ -1,4 +1,0 @@
-
-dispatch minecraft:storage[varchunk:config] to struct Config {
-
-}
