@@ -8,7 +8,7 @@ data modify storage slimecore:in manifest.pack.author_id set value "sixslime"
 data modify storage slimecore:in manifest.pack.version set value {major:0, minor:1, patch:0}
 data modify storage slimecore:in manifest.pack.url set value "TODO"
 
-data modify storage slimecore:in manifest.pack.display.name set value "TODO"
+data modify storage slimecore:in manifest.pack.display.name set value "VarChunk"
 data modify storage slimecore:in manifest.pack.display.summary set value "TODO"
 data modify storage slimecore:in manifest.pack.display.author_name set value "SixSlime"
 
@@ -17,7 +17,6 @@ data modify storage slimecore:in manifest.pack.display.links.info set value "htt
 # data modify storage slimecore:in manifest.pack.display.links.versions set value "TODO"
 
 data modify storage slimecore:in manifest.pack.entrypoints set value []
-data modify storage slimecore:in manifest.pack.entrypoints append value {id:"tick"}
 # data modify storage slimecore:in manifest.pack.entrypoints[-1].before append value {pack_ref:"PACK", id:"ID"}
 # data modify storage slimecore:in manifest.pack.entrypoints[-1].after append value {pack_ref:"PACK", id:"ID"}
 
