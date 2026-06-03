@@ -1,6 +1,6 @@
 {
   "pack": {
-    "description": "An ephemeral chunk for block/entity operations.",
+    "description": "An ephemeral chunk for block/entity operations. (Library)",
     "min_format": 101,
     "max_format": 101
   }
